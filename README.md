@@ -17,3 +17,6 @@ up to *tEnd* = 5 by implementing the Upwind method.
 * Use *N* = 256 points to discretize the domain spatially.
 * Try different ratios *dt/dx*, in particular *dt* = *dx/V* (and values slightly larger/smaller than this ratio).
 * Plot the evolution of u(x,t), what do you observe?  
+
+After you finished your Upwind project, make a copy of your code and implement
+the forward time centered space (FTCS) method. 
